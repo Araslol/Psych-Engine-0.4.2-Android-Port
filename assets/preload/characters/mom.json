@@ -1,59 +1,26 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-460,
+				-9
 			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "Mom Idle",
-			"indices": []
+			"indices": [],
+			"fps": 0,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "GF Dancing Beat"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				250,
-				-23
+				-460,
+				-9
 			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Mom Left Pose",
-			"indices": []
-		},
-		{
+			"indices": [],
+			"fps": 0,
+			"anim": "danceRight",
 			"loop": false,
-			"offsets": [
-				10,
-				-60
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Mom Pose Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				-160
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "MOM DOWN POSE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				14,
-				71
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Mom Up Pose",
-			"indices": []
+			"name": "GF Dancing Beat"
 		}
 	],
 	"no_antialiasing": false,
@@ -65,14 +32,14 @@
 	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		0,
+		0,
+		0
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 10
 }

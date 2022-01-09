@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				17,
-				250
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "SENPAI UP NOTE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				0,
-				220
+				0
 			],
-			"anim": "singRIGHT",
+			"anim": "idle",
 			"fps": 24,
-			"name": "SENPAI RIGHT NOTE",
+			"name": "Mom Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				40,
-				220
+				250,
+				-23
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "SENPAI LEFT NOTE",
+			"name": "Mom Left Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mom Pose Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MOM DOWN POSE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				14,
-				220
+				71
 			],
-			"anim": "singDOWN",
+			"anim": "singUP",
 			"fps": 24,
-			"name": "SENPAI DOWN NOTE",
+			"name": "Mom Up Pose",
 			"indices": []
-		},
-		{
-			"offsets": [
-				1,
-				220
-			],
-			"loop": false,
-			"fps": 5,
-			"anim": "idle",
-			"indices": [],
-			"name": "Senpai Idle"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/momCar",
+	"no_antialiasing": false,
+	"image": "characters/template1",
 	"position": [
-		150,
-		360
+		0,
+		0
 	],
-	"healthicon": "pico",
+	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		216,
+		85,
+		142
 	],
 	"camera_position": [
-		-250,
-		-400
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }

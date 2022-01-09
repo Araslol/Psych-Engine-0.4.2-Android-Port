@@ -3,78 +3,62 @@
 		{
 			"offsets": [
 				-9,
-				10
+				-10
 			],
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "sans left",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				-50,
+				-130
 			],
 			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
+			"name": "sans down",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-6,
-				50
+				-56,
+				-100
 			],
 			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"name": "sans up",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-70,
+				-133
 			],
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "sans right",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-40,
+				-130
 			],
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Dad idle dance",
+			"name": "sans idle",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle-loop",
-			"indices": [
-				10,
-				11,
-				12,
-				12
-			],
-			"name": "Dad idle dance"
-		},
-		{
-			"offsets": [
 				-9,
-				10
+				40
 			],
 			"loop": true,
 			"fps": 24,
@@ -85,7 +69,7 @@
 				14,
 				15
 			],
-			"name": "Dad Sing Note LEFT"
+			"name": "sans left"
 		},
 		{
 			"offsets": [
@@ -101,12 +85,12 @@
 				17,
 				18
 			],
-			"name": "Dad Sing Note RIGHT"
+			"name": "sans right"
 		},
 		{
 			"offsets": [
 				-6,
-				50
+				0
 			],
 			"loop": true,
 			"fps": 24,
@@ -117,18 +101,7 @@
 				58,
 				59
 			],
-			"name": "Dad Sing Note UP"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				140,
-				-100
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "WhatYouKnowAboutRollingDownInTheDeep",
-			"indices": []
+			"name": "sans up"
 		}
 	],
 	"no_antialiasing": false,
@@ -140,13 +113,13 @@
 	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		80,
+		135,
+		215
 	],
 	"camera_position": [
-		0,
-		0
+		-70,
+		90
 	],
 	"sing_duration": 6.1,
 	"scale": 1

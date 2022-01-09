@@ -1,109 +1,126 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				59,
-				-20
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "spooky kids YEAH!!",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				130,
+				-9,
 				-10
 			],
+			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "note sing left",
+			"name": "sans blackout left",
 			"indices": []
 		},
 		{
-			"loop": false,
-			"offsets": [
-				-130,
-				-14
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "spooky sing right",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				-50,
 				-130
 			],
+			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "spooky DOWN note",
+			"name": "sans blackout down",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-56,
+				-90
 			],
-			"fps": 12,
-			"anim": "danceLeft",
-			"indices": [
-				0,
-				2,
-				6
-			],
-			"name": "spooky dance idle"
-		},
-		{
 			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"fps": 12,
-			"anim": "danceRight",
-			"indices": [
-				8,
-				10,
-				12,
-				14
-			],
-			"name": "spooky dance idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-20,
-				26
-			],
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "spooky UP NOTE"
+			"fps": 24,
+			"name": "sans blackout up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-133
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sans blackout right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				-130
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "sans blackout idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "sans blackout left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "sans blackout right"
+		},
+		{
+			"offsets": [
+				-6,
+				40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "sans blackout up"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/spooky_kids_assets",
 	"position": [
 		0,
-		200
-	],
-	"healthicon": "spooky",
-	"flip_x": false,
-	"healthbar_colors": [
-		213,
-		126,
 		0
 	],
-	"camera_position": [
+	"healthicon": "nobody",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
 		0,
 		0
 	],
-	"sing_duration": 4,
+	"camera_position": [
+		80,
+		70
+	],
+	"sing_duration": 6.1,
 	"scale": 1
 }

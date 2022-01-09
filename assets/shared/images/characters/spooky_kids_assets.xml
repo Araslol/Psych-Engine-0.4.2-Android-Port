@@ -1,101 +1,81 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="spooky_kids_assets.png">
-	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+<TextureAtlas imagePath="nobody.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="note sing left0000" x="0" y="0" width="556" height="527" pivotX="3.85" pivotY="-0.05" frameX="0" frameY="-2" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0001" x="0" y="0" width="556" height="527" frameX="0" frameY="-2" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0002" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0003" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0004" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0005" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0006" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0007" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0008" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0009" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0010" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0011" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0012" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0013" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="note sing left0014" x="561" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
-	<SubTexture name="spooky DOWN note0000" x="1125" y="0" width="463" height="408" pivotX="176.75" pivotY="143.25" frameX="0" frameY="-4" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0001" x="1125" y="0" width="463" height="408" frameX="0" frameY="-4" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0002" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0003" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0004" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0005" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0006" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0007" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0008" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0009" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0010" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0011" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0012" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0013" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0014" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0015" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0016" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0017" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0018" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0019" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0020" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0021" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0022" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0023" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky DOWN note0024" x="1593" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
-	<SubTexture name="spooky UP NOTE0000" x="2046" y="0" width="399" height="571" pivotX="-5.5" pivotY="4.4" frameX="-1" frameY="0" frameWidth="406" frameHeight="571"/>
-	<SubTexture name="spooky UP NOTE0001" x="2046" y="0" width="399" height="571" frameX="-1" frameY="0" frameWidth="406" frameHeight="571"/>
-	<SubTexture name="spooky UP NOTE0002" x="2450" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
-	<SubTexture name="spooky UP NOTE0003" x="2450" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
-	<SubTexture name="spooky UP NOTE0004" x="2450" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
-	<SubTexture name="spooky dance idle0000" x="2861" y="0" width="381" height="549" pivotX="186.85" pivotY="281.25" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0001" x="2861" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0002" x="3247" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0003" x="3247" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0004" x="3631" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0005" x="3631" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0006" x="0" y="571" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0007" x="0" y="571" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0008" x="359" y="571" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0009" x="359" y="571" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0010" x="856" y="571" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0011" x="856" y="571" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0012" x="3631" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0013" x="3631" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0014" x="0" y="571" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky dance idle0015" x="0" y="571" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
-	<SubTexture name="spooky kids YEAH!!0000" x="1342" y="571" width="639" height="528" pivotX="16.5" pivotY="-21.3"/>
-	<SubTexture name="spooky kids YEAH!!0001" x="1342" y="571" width="639" height="528"/>
-	<SubTexture name="spooky kids YEAH!!0002" x="1986" y="571" width="613" height="518" frameX="-16" frameY="-10" frameWidth="639" frameHeight="528"/>
-	<SubTexture name="spooky kids YEAH!!0003" x="1986" y="571" width="613" height="518" frameX="-16" frameY="-10" frameWidth="639" frameHeight="528"/>
-	<SubTexture name="spooky kids YEAH!!0004" x="2604" y="571" width="594" height="517" frameX="-28" frameY="-11" frameWidth="639" frameHeight="528"/>
-	<SubTexture name="spooky kids YEAH!!0005" x="2604" y="571" width="594" height="517" frameX="-28" frameY="-11" frameWidth="639" frameHeight="528"/>
-	<SubTexture name="spooky kids YEAH!!0006" x="3203" y="571" width="577" height="515" frameX="-35" frameY="-13" frameWidth="639" frameHeight="528"/>
-	<SubTexture name="spooky kids YEAH!!0007" x="3203" y="571" width="577" height="515" frameX="-35" frameY="-13" frameWidth="639" frameHeight="528"/>
-	<SubTexture name="spooky kids YEAH!!0008" x="3203" y="571" width="577" height="515" frameX="-35" frameY="-13" frameWidth="639" frameHeight="528"/>
-	<SubTexture name="spooky kids YEAH!!0009" x="3203" y="571" width="577" height="515" frameX="-35" frameY="-13" frameWidth="639" frameHeight="528"/>
-	<SubTexture name="spooky sing right0000" x="0" y="1103" width="442" height="524" pivotX="-1.25" pivotY="-0.25" frameX="0" frameY="-9" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0001" x="0" y="1103" width="442" height="524" frameX="0" frameY="-9" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0002" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0003" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0004" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0005" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0006" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0007" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0008" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0009" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0010" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0011" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0012" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0013" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0014" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0015" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0016" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0017" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0018" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0019" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0020" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0021" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0022" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0023" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
-	<SubTexture name="spooky sing right0024" x="447" y="1103" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="sans blackout down0000" x="0" y="0" width="454" height="611" pivotX="65.25" pivotY="-9.95" frameX="0" frameY="-12" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0001" x="0" y="0" width="454" height="611" frameX="0" frameY="-12" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0002" x="454" y="0" width="440" height="616" frameX="-7" frameY="-7" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0003" x="454" y="0" width="440" height="616" frameX="-7" frameY="-7" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0004" x="894" y="0" width="430" height="620" frameX="-12" frameY="-3" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0005" x="894" y="0" width="430" height="620" frameX="-12" frameY="-3" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0006" x="1324" y="0" width="425" height="622" frameX="-15" frameY="-1" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0007" x="1324" y="0" width="425" height="622" frameX="-15" frameY="-1" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0008" x="1749" y="0" width="423" height="623" frameX="-16" frameY="0" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0009" x="1749" y="0" width="423" height="623" frameX="-16" frameY="0" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0010" x="2172" y="0" width="423" height="623" frameX="-16" frameY="0" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0011" x="2172" y="0" width="423" height="623" frameX="-16" frameY="0" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0012" x="1749" y="0" width="423" height="623" frameX="-16" frameY="0" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout down0013" x="1749" y="0" width="423" height="623" frameX="-16" frameY="0" frameWidth="454" frameHeight="623"/>
+	<SubTexture name="sans blackout idle0000" x="2595" y="0" width="463" height="623" pivotX="79.35" pivotY="-2.95" frameX="-1" frameY="-8" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0001" x="2595" y="0" width="463" height="623" frameX="-1" frameY="-8" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0002" x="3058" y="0" width="451" height="625" frameX="-9" frameY="-6" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0003" x="3058" y="0" width="451" height="625" frameX="-9" frameY="-6" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0004" x="3509" y="0" width="442" height="627" frameX="-15" frameY="-4" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0005" x="3509" y="0" width="442" height="627" frameX="-15" frameY="-4" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0006" x="0" y="627" width="435" height="629" frameX="-19" frameY="-2" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0007" x="0" y="627" width="435" height="629" frameX="-19" frameY="-2" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0008" x="435" y="627" width="432" height="630" frameX="-21" frameY="-1" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0009" x="435" y="627" width="432" height="630" frameX="-21" frameY="-1" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0010" x="867" y="627" width="431" height="631" frameX="-22" frameY="0" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0011" x="867" y="627" width="431" height="631" frameX="-22" frameY="0" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0012" x="1298" y="627" width="446" height="625" frameX="-12" frameY="-6" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0013" x="1298" y="627" width="446" height="625" frameX="-12" frameY="-6" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0014" x="1744" y="627" width="456" height="621" frameX="-5" frameY="-10" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0015" x="1744" y="627" width="456" height="621" frameX="-5" frameY="-10" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0016" x="2200" y="627" width="463" height="618" frameX="-1" frameY="-12" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0017" x="2200" y="627" width="463" height="618" frameX="-1" frameY="-12" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0018" x="2663" y="627" width="464" height="617" frameX="0" frameY="-13" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout idle0019" x="2663" y="627" width="464" height="617" frameX="0" frameY="-13" frameWidth="464" frameHeight="631"/>
+	<SubTexture name="sans blackout left0000" x="3127" y="627" width="483" height="729" pivotX="113" pivotY="114.7" frameX="0" frameY="-18" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0001" x="3127" y="627" width="483" height="729" frameX="0" frameY="-18" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0002" x="0" y="1356" width="504" height="743" frameX="-14" frameY="-4" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0003" x="0" y="1356" width="504" height="743" frameX="-14" frameY="-4" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0004" x="504" y="1356" width="509" height="747" frameX="-24" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0005" x="504" y="1356" width="509" height="747" frameX="-24" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0006" x="1013" y="1356" width="513" height="747" frameX="-30" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0007" x="1013" y="1356" width="513" height="747" frameX="-30" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0008" x="1526" y="1356" width="520" height="747" frameX="-31" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0009" x="1526" y="1356" width="520" height="747" frameX="-31" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0010" x="2046" y="1356" width="525" height="747" frameX="-31" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0011" x="2046" y="1356" width="525" height="747" frameX="-31" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0012" x="2571" y="1356" width="527" height="747" frameX="-31" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout left0013" x="3098" y="1356" width="528" height="747" frameX="-31" frameY="0" frameWidth="559" frameHeight="747"/>
+	<SubTexture name="sans blackout right0000" x="0" y="2103" width="542" height="628" pivotX="44.25" pivotY="-4.45" frameX="-15" frameY="-1" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0001" x="0" y="2103" width="542" height="628" frameX="-15" frameY="-1" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0002" x="542" y="2103" width="539" height="628" frameX="-9" frameY="-1" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0003" x="542" y="2103" width="539" height="628" frameX="-9" frameY="-1" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0004" x="1081" y="2103" width="536" height="629" frameX="-4" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0005" x="1081" y="2103" width="536" height="629" frameX="-4" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0006" x="1617" y="2103" width="534" height="629" frameX="-1" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0007" x="1617" y="2103" width="534" height="629" frameX="-1" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0008" x="2151" y="2103" width="534" height="629" frameX="0" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0009" x="2151" y="2103" width="534" height="629" frameX="0" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0010" x="2685" y="2103" width="534" height="629" frameX="0" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0011" x="2685" y="2103" width="534" height="629" frameX="0" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0012" x="2151" y="2103" width="534" height="629" frameX="0" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout right0013" x="2151" y="2103" width="534" height="629" frameX="0" frameY="0" frameWidth="557" frameHeight="629"/>
+	<SubTexture name="sans blackout up0000" x="3219" y="2103" width="516" height="667" pivotX="65.1" pivotY="32.95"/>
+	<SubTexture name="sans blackout up0001" x="3219" y="2103" width="516" height="667"/>
+	<SubTexture name="sans blackout up0002" x="0" y="2770" width="514" height="661" frameX="-1" frameY="-6" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0003" x="0" y="2770" width="514" height="661" frameX="-1" frameY="-6" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0004" x="514" y="2770" width="513" height="657" frameX="-1" frameY="-10" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0005" x="514" y="2770" width="513" height="657" frameX="-1" frameY="-10" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0006" x="1027" y="2770" width="512" height="653" frameX="-1" frameY="-13" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0007" x="1027" y="2770" width="512" height="653" frameX="-1" frameY="-13" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0008" x="1539" y="2770" width="512" height="653" frameX="-1" frameY="-13" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0009" x="1539" y="2770" width="512" height="653" frameX="-1" frameY="-13" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0010" x="2051" y="2770" width="512" height="653" frameX="-1" frameY="-13" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0011" x="2051" y="2770" width="512" height="653" frameX="-1" frameY="-13" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0012" x="1539" y="2770" width="512" height="653" frameX="-1" frameY="-13" frameWidth="516" frameHeight="667"/>
+	<SubTexture name="sans blackout up0013" x="1539" y="2770" width="512" height="653" frameX="-1" frameY="-13" frameWidth="516" frameHeight="667"/>
 </TextureAtlas>
